@@ -1,0 +1,2 @@
+# swiftly-adblock
+Block advertisements
