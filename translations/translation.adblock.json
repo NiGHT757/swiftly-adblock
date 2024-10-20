@@ -1,0 +1,24 @@
+{
+    "prefix": {
+        "en": "[{red}AD-BLOCK{default}]",
+        "ro": "[{red}AD-BLOCK{default}]"
+    },
+    "renaming":
+    {
+        "en": "Renaming {red}{name}{default}'s name to: {red}{newname}{default}",
+        "ro": "Schimb numele lui {red}{name}{default} în: {red}{newname}{default}"
+    },
+	"non-ascii":
+	{
+        "en": "{red}{name}{default} sent a message containing {red}non-ASCII characters.",
+        "ro": "{red}{name}{default} a trimis un mesaj care conține caractere {red}non-ASCII."
+	},
+    "word": {
+        "en": "{red}{name}{default} sent a message containing blocked words: {RED}{text}{default}",
+        "ro": "{red}{name}{default} a trimis un mesaj care conține cuvinte blocate: {RED}{text}{default}"
+    },
+    "ip": {
+        "en": "{red}{name}{default} sent a message containing an IP: {RED}{text}{default}",
+        "ro": "{red}{name}{default} a trimis un mesaj care conține un IP: {RED}{text}{default}"
+    }
+}

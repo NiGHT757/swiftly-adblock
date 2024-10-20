@@ -1,0 +1,35 @@
+{
+    "block_non_ascii": true,
+    "block_ips": true,
+    "allowed_ips": [
+        "5.83.147.54"
+    ],
+    "block_words": true,
+    "immune_flags": "a",
+    "words": [
+        "usp",
+        "elitegamers",
+        "llg",
+        "1tap",
+        "ndr-pc",
+        "fireon",
+        "arenax",
+        "csro",
+        "fairside",
+        "alphacs",
+        "ggez",
+        "epic-gamers",
+        "og-stars",
+        "skz",
+        "jucausii",
+        "toplay",
+        "csgoromania",
+        "nevermore",
+        "lunario",
+        "gomania",
+        "leaguecs",
+        "connect",
+        "http",
+        "www"
+    ]
+}
